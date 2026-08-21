@@ -14,3 +14,7 @@ console.log(originalLanguage);
 
 const additionalVoteCount = 100;
 console.log(voteCount + additionalVoteCount);
+
+const genre = "SF";
+const category = "영화";
+console.log(genre + " " + category);
