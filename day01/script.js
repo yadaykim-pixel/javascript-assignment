@@ -28,3 +28,5 @@ console.log(`평점: ${voteAverage}`);
 console.log(`개봉일: ${releaseDate}`);
 
 console.log(`${title}는 ${releaseDate}에 개봉한 영화이며, 현재 평점은 ${voteAverage}점이고 ${voteCount}명이 평가하였습니다.`);
+
+
