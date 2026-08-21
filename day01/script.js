@@ -11,3 +11,6 @@ console.log(voteCount);
 console.log(popularity);
 console.log(releaseDate);
 console.log(originalLanguage);
+
+const additionalVoteCount = 100;
+console.log(voteCount + additionalVoteCount);
