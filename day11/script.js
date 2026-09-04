@@ -128,5 +128,5 @@ async function searchTVShows(keyword) {
 }
 
 // 초기 로딩 시 인기 프로그램 출력 실행
-getPopularTVShows();
+getPopularTVShows(); 
 
